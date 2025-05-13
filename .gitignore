@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/ObornaPrax/FileContentIndex
+/.vs/ObornaPrax/FileContentIndex/5656341d-242b-4312-af8c-7b029a52c3ea.vsidx
+/.vs/ObornaPrax/v17
+/.vs/ObornaPrax/v17/.wsuo
+/.vs/ObornaPrax/v17/DocumentLayout.json
+/.vs/slnx.sqlite
+/.vs/VSWorkspaceState.json
