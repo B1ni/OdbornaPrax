@@ -13,3 +13,7 @@ in c# projekt than include this
     <HintPath>libs\API</HintPath>
   </Reference>
 </ItemGroup>
+
+for project you should include nuget package
+Microsoft.EntityFrameworkCore
+icrosoft.EntityFrameworkCore.SqlServer
